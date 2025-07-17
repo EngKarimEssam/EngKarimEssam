@@ -1,7 +1,7 @@
-<h1>Hi there 👋! </h1>
- 
-  
- My name is Karim, and I'm a Data Engineer interested in learning, exploring new tools, and developing myself
+
+Hi there 👋!
+
+My name is Karim, and I'm a Data Engineer interested in learning, exploring new tools, and developing myself
 
 
 
