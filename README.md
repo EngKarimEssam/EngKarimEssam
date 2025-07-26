@@ -25,7 +25,7 @@ My name is Karim, and I'm a Data Engineer interested in learning, exploring new 
 <h2> 🤳 Connect with me:</h2>
 
  - Phone: +201111494706
- - Whatsapp: http://Wa.me/+201111494706
+ - Whatsapp: https://Wa.me/+201111494706
  - Email: karimessam51995@gmail.com
  - Linkedin: https://linkedin.com/in/karim-essam-074170187/
  
