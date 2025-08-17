@@ -1,7 +1,10 @@
 
 Hi there 👋!
 
-My name is Karim, and I'm a Data Engineer interested in learning, exploring new tools, and developing myself
+My name is Karim, and I'm a Data Engineer interested in learning, exploring new tools, and developing myself.
+
+Proficient in SQL, SSIS, SSAS, SSRS, Power BI, DAX, and DWH Modeling. I am skilled at transforming complex datasets into clear, stakeholder-driven 
+dashboards while maintaining stringent data quality standards.
 
 
 
@@ -9,8 +12,8 @@ My name is Karim, and I'm a Data Engineer interested in learning, exploring new 
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft Fabric </b>
+  - [AdventureWorks](https://github.com/EngKarimEssam/AdventureWorks_FabricProject)
 
 
 
