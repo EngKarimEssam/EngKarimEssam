@@ -6,6 +6,8 @@ My name is Karim, and I'm a Data Engineer interested in learning, exploring new 
 Proficient in SQL, SSIS, SSAS, SSRS, Power BI, DAX, and DWH Modeling. I am skilled at transforming complex datasets into clear, stakeholder-driven 
 dashboards while maintaining stringent data quality standards.
 
+Currently learning Microsoft Fabric and Python.
+
 
 
 
@@ -14,6 +16,7 @@ dashboards while maintaining stringent data quality standards.
 
 - <b>Microsoft Fabric </b>
   - [AdventureWorks](https://github.com/EngKarimEssam/AdventureWorks_FabricProject)
+  - [WorldWideImporters](https://github.com/EngKarimEssam/WorldWideImporters)
 
 
 
